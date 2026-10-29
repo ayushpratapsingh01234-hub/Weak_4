@@ -1,0 +1,130 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description"
+          content="About Ayush Singh and Campus Coding Club">
+
+    <meta name="author" content="Ayush Singh">
+
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+    <title>About - Ayush Singh | Coding Club</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>About Our Coding Club</h1>
+
+        <p>Learn, Build, and Innovate Together</p>
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="register.html">Register</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <hr>
+
+    <main>
+
+        <section id="about-me">
+            <h2>About Me</h2>
+
+            <p>
+                Hello! My name is <strong>Ayush Singh</strong>.
+                I am a B.Tech Computer Science and Engineering
+                (CSE) student.
+            </p>
+
+            <p>
+                I am learning programming, HTML, CSS,
+                web development, and problem-solving.
+                My goal is to improve my technical skills
+                and build useful projects.
+            </p>
+        </section>
+
+        <hr>
+
+        <section id="mission">
+            <h2>Our Mission</h2>
+
+            <p>
+                Our mission is to develop technical knowledge,
+                creative thinking, and problem-solving skills
+                among students through coding and teamwork.
+            </p>
+        </section>
+
+        <hr>
+
+        <section id="activities">
+            <h2>What We Do</h2>
+
+            <ul>
+                <li>Learn programming and coding basics</li>
+                <li>Practice problem-solving challenges</li>
+                <li>Create HTML and CSS web pages</li>
+                <li>Build frontend and backend projects</li>
+                <li>Work together and share coding knowledge</li>
+                <li>Prepare for hackathons and competitions</li>
+            </ul>
+        </section>
+
+        <hr>
+
+        <section id="skills">
+            <h2>My Learning Goals</h2>
+
+            <ol>
+                <li>Learn HTML</li>
+                <li>Learn CSS</li>
+                <li>Practice programming</li>
+                <li>Learn JavaScript</li>
+                <li>Build my own projects</li>
+            </ol>
+        </section>
+
+        <hr>
+
+        <section id="club-details">
+            <h2>Club Details</h2>
+
+            <p><strong>Name:</strong> Ayush Singh</p>
+            <p><strong>Course:</strong> B.Tech CSE</p>
+            <p><strong>Interest:</strong> Coding and Web Development</p>
+            <p><strong>College:</strong> Your College Name</p>
+            <p><strong>Location:</strong> Your City, Uttar Pradesh</p>
+        </section>
+
+    </main>
+
+    <hr>
+
+    <footer>
+        <p>
+            &copy; 2026 Campus Coding Club.
+            All rights reserved.
+        </p>
+
+        <p>
+            Contact: your-email@example.com
+        </p>
+
+        <p>
+            Created by Ayush Singh | B.Tech CSE
+        </p>
+    </footer>
+
+</body>
+</html>
