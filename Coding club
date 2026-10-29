@@ -1,0 +1,182 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description"
+          content="Ayush Singh's Campus Coding Club Website">
+
+    <meta name="author" content="Ayush Singh">
+
+    <title>Ayush Singh - Coding Club</title>
+</head>
+<body>
+
+    <header>
+        <h1>Campus Coding Club</h1>
+        <p>Learn, Build, and Innovate Together</p>
+
+        <h3>Student: Ayush Singh</h3>
+        <p>Course: B.Tech - Computer Science Engineering (CSE)</p>
+        <p>Year: First Year</p>
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="register.html">Register</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <hr>
+
+    <main>
+
+        <section id="welcome">
+            <h2>Welcome to My Coding Club</h2>
+
+            <p>
+                Hello! My name is <strong>Ayush Singh</strong>.
+                I am a first-year B.Tech Computer Science
+                Engineering student.
+            </p>
+
+            <p>
+                I am learning HTML, CSS, programming and
+                web development. My goal is to improve my
+                coding skills and build useful projects.
+            </p>
+        </section>
+
+        <hr>
+
+        <section id="about">
+            <h2>About Me</h2>
+
+            <ul>
+                <li>Name: Ayush Singh</li>
+                <li>Course: B.Tech CSE</li>
+                <li>Year: First Year</li>
+                <li>Interest: Coding and Web Development</li>
+                <li>Learning: HTML, CSS and Programming</li>
+            </ul>
+        </section>
+
+        <hr>
+
+        <section id="events">
+            <h2>Upcoming Club Events</h2>
+
+            <table border="1" cellpadding="8" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Event ID</th>
+                        <th>Event Name</th>
+                        <th>Date</th>
+                        <th>Venue</th>
+                        <th>Entry Fee</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td>EVT-101</td>
+                        <td>Web Development Bootcamp</td>
+                        <td>10 November 2026</td>
+                        <td>Computer Lab 2</td>
+                        <td>Free</td>
+                    </tr>
+
+                    <tr>
+                        <td>EVT-102</td>
+                        <td>Code Sprint Hackathon</td>
+                        <td>25 November 2026</td>
+                        <td>Main Auditorium</td>
+                        <td>₹100</td>
+                    </tr>
+
+                    <tr>
+                        <td>EVT-103</td>
+                        <td>Data Structures Workshop</td>
+                        <td>05 December 2026</td>
+                        <td>Seminar Hall B</td>
+                        <td>Free</td>
+                    </tr>
+                </tbody>
+
+                <tfoot>
+                    <tr>
+                        <td colspan="4">Total Upcoming Events</td>
+                        <td>3</td>
+                    </tr>
+                </tfoot>
+            </table>
+        </section>
+
+        <hr>
+
+        <section id="goals">
+            <h2>My Coding Goals</h2>
+
+            <ol>
+                <li>Learn HTML and CSS.</li>
+                <li>Practice programming every day.</li>
+                <li>Create my own websites.</li>
+                <li>Learn Java and Data Structures.</li>
+                <li>Participate in coding competitions.</li>
+            </ol>
+        </section>
+
+        <hr>
+
+        <section id="blog">
+            <h2>My First Blog Post</h2>
+
+            <article>
+                <h3>My Journey into Web Development</h3>
+
+                <p>
+                    I have started learning web development
+                    as a B.Tech CSE student. HTML helps me
+                    create the structure of a webpage.
+                    Next, I am learning CSS to make websites
+                    attractive and responsive.
+                </p>
+
+                <p>
+                    My aim is to keep practicing, learn new
+                    technologies and develop real-world projects.
+                </p>
+            </article>
+        </section>
+
+        <hr>
+
+        <section id="contact">
+            <h2>Contact Information</h2>
+
+            <p>Student: Ayush Singh</p>
+            <p>Course: B.Tech CSE</p>
+            <p>College: Your College Name</p>
+            <p>Email: your-email@example.com</p>
+        </section>
+
+    </main>
+
+    <hr>
+
+    <footer>
+        <p>
+            &copy; 2026 Ayush Singh - Campus Coding Club.
+            All rights reserved.
+        </p>
+
+        <p>Made with HTML by Ayush Singh.</p>
+    </footer>
+
+</body>
+</html>
